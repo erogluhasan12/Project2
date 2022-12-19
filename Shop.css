@@ -1,0 +1,16 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.shop{
+    background-color: lightgrey;
+    border-radius: 15px;
+}
+
+.shop img{
+    max-width: 150px;
+    max-height: 150px;
+    background-color: white;
+}
